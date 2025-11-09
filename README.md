@@ -47,7 +47,7 @@
   <a href="https://zdoc.app/ko/lfnovo/open-notebook">한국어</a> | 
   <a href="https://zdoc.app/pt/lfnovo/open-notebook">Português</a> | 
   <a href="https://zdoc.app/ru/lfnovo/open-notebook">Русский</a> | 
-  <a href="https://zdoc.app/zh/lfnovo/open-notebook">中文</a>
+  <a href="README.zh.md">中文</a>
 </div>
 
 ## A private, multi-model, 100% local, full-featured alternative to Notebook LM
